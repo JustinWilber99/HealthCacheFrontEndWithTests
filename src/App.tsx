@@ -11,12 +11,12 @@ import {
 import Claims from "./components/claims/Claims";
 import { Profile } from "./components/profile/Profile";
 import { Discussions } from "./components/discussion-board/discussion-home/Discussions";
-import { Login } from "./components/Login/Login";
+import { Login } from "./components/login/Login";
 import { Register } from "./components/register/Register";
 import { User } from "./redux/actions";
 import { StoreState } from "./redux/reducers";
 import { connect, useSelector } from "react-redux";
-import { Logout } from "./components/Login/Logout";
+import { Logout } from "./components/login/Logout";
 import { CommentThread } from "./components/discussion-board/discussion-home/comments-subject";
 import './colors.scss';
 
