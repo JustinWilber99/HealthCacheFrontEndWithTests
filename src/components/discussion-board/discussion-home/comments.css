@@ -1,0 +1,14 @@
+
+
+.like {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none; 
+    cursor: pointer; 
+}
+
+.centered{
+    margin: auto;
+    width: 70%;
+  padding: 10px;
+}

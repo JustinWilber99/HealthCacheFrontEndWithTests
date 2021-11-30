@@ -1,0 +1,82 @@
+.subject{
+    margin-top: 40px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.comment{
+
+        width: 70%;
+   
+}
+
+.subject-username{
+    margin-top: -50px;
+    margin-left: 70px;
+}
+
+.subject-content{
+    margin-top: 10px;
+    margin-left: 90px;
+    width: 600px;
+}
+
+.subject-image{
+    margin-top: 4px;
+    margin-left: 4px;;
+}
+
+.subject-date{
+    margin-left: 90px;
+    margin-top: 15px;
+}
+
+.subject-comment{
+    position: relative;
+    margin-left: 700px;
+    margin-top: -40px;
+    top: -25px;
+}
+
+
+.subject-comment button{
+    background-color: Transparent;
+    border: none;
+    cursor: pointer; 
+}
+
+
+.subject-likes button{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none; 
+    cursor: pointer; 
+}
+
+.subject-likes{
+    position: relative;
+    margin-left: 800px;
+    margin-top: -63px;
+    top: -25px;
+}
+
+.subject-likes p{
+margin-left: 20px;
+}
+
+.subject-comment p{
+    margin-left: 25px;
+}
+
+.create-thread button{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none; 
+    cursor: pointer; 
+}
+
+.create-thread{
+    text-align: center;
+    padding-top: 30px;
+}

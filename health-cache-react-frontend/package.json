@@ -1,0 +1,67 @@
+{
+  "name": "health-cache-react-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://184.72.201.95:8081",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^12.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-datepicker": "^4.3.2",
+    "@types/react-dom": "^17.0.0",
+    "@types/react-redux": "^7.1.20",
+    "@types/redux-thunk": "^2.1.0",
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.3",
+    "node-sass": "^4.14.1",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.2",
+    "react-datepicker": "^4.3.0",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.19.5",
+    "react-icons": "^4.3.1",
+    "react-quill": "^1.3.5",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.0.2",
+    "react-scripts": "4.0.3",
+    "reactstrap": "^9.0.1",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.0",
+    "reset-css": "^5.0.1",
+    "styled-components": "^5.3.3",
+    "typescript": "^4.1.2",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.15",
+    "http-proxy-middleware": "^2.0.1",
+    "tslint-config-prettier": "^1.18.0"
+  }
+}

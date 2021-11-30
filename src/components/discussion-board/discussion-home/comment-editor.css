@@ -1,0 +1,11 @@
+#text-editor { 
+    height: 150px;
+    max-height: 150px;
+}
+#editor-container{
+    
+    height: 200px;
+}
+#send-button{
+    padding: 1em;
+}
